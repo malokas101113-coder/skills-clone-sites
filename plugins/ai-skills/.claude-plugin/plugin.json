@@ -1,2 +1,8 @@
 {
   "name": "ai-skills",
+  "version": "1.0.0",
+  "description": "Complete collection of AI skills for development, frontend, debugging and automation.",
+  "author": {
+    "name": "AI Skills Collection"
+  }
+}
