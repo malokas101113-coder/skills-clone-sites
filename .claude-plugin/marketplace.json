@@ -1,1 +1,13 @@
 {
+  "name": "ai-skills-marketplace",
+  "owner": {
+    "name": "AI Skills Collection"
+  },
+  "plugins": [
+    {
+      "name": "ai-skills",
+      "source": "./plugins/ai-skills",
+      "description": "Complete collection of AI skills for Claude."
+    }
+  ]
+}
